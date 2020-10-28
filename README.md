@@ -24,11 +24,17 @@ Use the newsapi to pull the latest news articles for Bitcoin and Ethereum and cr
 
 Use descriptive statistics to answer the following questions:
 
-Which coin had the highest mean positive score?
+Q: Which coin had the highest mean positive score?
 
-Which coin had the highest negative score?
+A: Bitcoin with the higher mean of 0.041000
 
-Which coin had the highest positive score?
+Q: Which coin had the highest compound score?
+
+A: Ethereum with a max compound score of 0.91200
+
+Q. Which coin had the highest positive score?
+
+A: Ethereum with a highest positive score of 0.278000
 
 Natural Language Processing
 In this section, you will use NLTK and Python to tokenize the text for each coin. Be sure to:
